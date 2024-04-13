@@ -1,5 +1,4 @@
 #Deployment used for hosting the site (User data file)
-
 #Create a script that downloads the web files from github repository and hosts the HTML website on an EC2 instance. Refer to the sample script provided below                
 #Configuration created using github repository as the webfile source
                                                                                                                                          
